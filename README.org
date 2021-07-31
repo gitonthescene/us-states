@@ -1,0 +1,5 @@
+#+OPTIONS: ^:nil
+#+STARTUP: align fold hidestars oddeven
+#+LANGUAGE: en
+* U.S. States
+  [[https://apps.ankiweb.net/][Anki]] deck built with [[https://github.com/ohare93/brain-brew][brain-brew]] based on this [[https://ankiweb.net/shared/info/1226689493][previous deck]].

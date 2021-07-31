@@ -1,0 +1,1133 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "c380b736-a5fa-11ea-9c72-787b8aba258b",
+    "deck_config_uuid": "c380ee18-a5fa-11ea-b6f7-787b8aba258b",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "c380ee18-a5fa-11ea-b6f7-787b8aba258b",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 100
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "Please see the <a href='https://ankiweb.net/shared/info/1226689493'>shared deck page</a> for more info.",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "mid": "1591408879030",
+    "media_files": [
+        "Alabama.png",
+        "Alaska.png",
+        "Arizona.png",
+        "Arkansas.png",
+        "California.png",
+        "Colorado.png",
+        "Connecticut.png",
+        "Delaware.png",
+        "Florida.png",
+        "Georgia (1).png",
+        "Hawaii.png",
+        "Idaho.png",
+        "Illinois.png",
+        "Indiana.png",
+        "Iowa.png",
+        "Kansas.png",
+        "Kentucky.png",
+        "Louisiana.png",
+        "Maine.png",
+        "Maryland.png",
+        "Massachusetts.png",
+        "Michigan.png",
+        "Minnesota.png",
+        "Mississippi.png",
+        "Missouri.png",
+        "Montana.png",
+        "Nebraska.png",
+        "Nevada.png",
+        "New-Hampshire.png",
+        "New-Jersey.png",
+        "New-Mexico.png",
+        "New-York.png",
+        "North-Carolina.png",
+        "North-Dakota.png",
+        "Ohio.png",
+        "Oklahoma.png",
+        "Oregon.png",
+        "Pennsylvania.png",
+        "Rhode-Island.png",
+        "South-Carolina.png",
+        "South-Dakota.png",
+        "Tennessee.png",
+        "Texas.png",
+        "Utah.png",
+        "Vermont.png",
+        "Virginia.png",
+        "Washington.png",
+        "West-Virginia.png",
+        "Wisconsin.png",
+        "Wyoming.png"
+    ],
+    "name": "Geography::USA States",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n}\n\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Name",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Capital",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Map",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Motto",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Nickname",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Inception",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Geography - Basic-b6e4a",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    2,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    3,
+                    "any",
+                    [
+                        3
+                    ]
+                ],
+                [
+                    4,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    5,
+                    "any",
+                    [
+                        4
+                    ]
+                ],
+                [
+                    6,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<div id=\"answer\">\n\t<hr>\n\t{{Name}}\n</div>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Map",
+                    "ord": 0,
+                    "qfmt": "<div class=\"map\">{{Map}}</div>",
+                    "scratchPad": 0
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Capital}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Capitals",
+                    "ord": 1,
+                    "qfmt": "{{Name}}\n<h3>Capital</h3>",
+                    "scratchPad": 0
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Motto}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Mottos",
+                    "ord": 2,
+                    "qfmt": "{{Name}}\n<h3>Motto</h3>",
+                    "scratchPad": 0
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Name}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Mottos-Back",
+                    "ord": 3,
+                    "qfmt": "{{Motto}}",
+                    "scratchPad": 0
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Nickname}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Nicknames",
+                    "ord": 4,
+                    "qfmt": "{{Name}}\n<h3>Nickname</h3>",
+                    "scratchPad": 0
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Name}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Nicknames-Back",
+                    "ord": 5,
+                    "qfmt": "{{Nickname}}",
+                    "scratchPad": 0
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Inception}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Inception",
+                    "ord": 6,
+                    "qfmt": "When was {{Name}} admitted to the Union?\n<h3>Inception</h3>",
+                    "scratchPad": 0
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Alabama",
+                "Montgomery",
+                "<img src=\"Alabama.png\" />",
+                "Audemus jura nostra defendere (Latin: We dare defend our rights)",
+                "The Yellowhammer State; The Heart of Dixie; and The Cotton State",
+                "December 14, 1819"
+            ],
+            "flags": 0,
+            "guid": "H;_mZsJRoG",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Alaska",
+                "Juneau",
+                "<img src=\"Alaska.png\" />",
+                "North to the Future",
+                "The Last Frontier",
+                "January 3, 1959"
+            ],
+            "flags": 0,
+            "guid": "p/b63~7yWL",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Arizona",
+                "Phoenix",
+                "<img src=\"Arizona.png\" />",
+                "Ditat Deus (God enriches)",
+                "The Grand Canyon State; The Copper State; The Valentine State",
+                "February 14, 1912"
+            ],
+            "flags": 0,
+            "guid": "xfGe?dFq#!",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": [
+                "leech"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Arkansas",
+                "Little Rock",
+                "<img src=\"Arkansas.png\" />",
+                "Regnat populus (Latin: The People Rule)",
+                "The Natural State (current) The Bear State (former)",
+                "June 15, 1836"
+            ],
+            "flags": 0,
+            "guid": "y5d2Rib)|q",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "California",
+                "Sacramento",
+                "<img src=\"California.png\" />",
+                "Eureka",
+                "The Golden State",
+                "September 9, 1850"
+            ],
+            "flags": 0,
+            "guid": "oK290hNNs}",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Colorado",
+                "Denver",
+                "<img src=\"Colorado.png\" />",
+                "Nil sine numine(Latin: Nothing without providence)",
+                "The Centennial State; Colo",
+                "August 1, 1876"
+            ],
+            "flags": 0,
+            "guid": "it,=9^>gz^",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Connecticut",
+                "Hartford",
+                "<img src=\"Connecticut.png\" />",
+                "Qui transtulit sustinet (Latin: He who transplanted still sustains)",
+                "The Constitution State (official); The Nutmeg State; The Provisions State; The Land of Steady Habits",
+                "January 9, 1788"
+            ],
+            "flags": 0,
+            "guid": "rLWei%_uN9",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Delaware",
+                "Dover",
+                "<img src=\"Delaware.png\" />",
+                "Liberty and Independence",
+                "The First State; The Small Wonder; Blue Hen State; The Diamond State",
+                "December 7, 1787"
+            ],
+            "flags": 0,
+            "guid": "GfTqITr(Z5",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Florida",
+                "Tallahassee",
+                "<img src=\"Florida.png\" />",
+                "In God We Trust",
+                "The Sunshine State",
+                "March 3, 1845"
+            ],
+            "flags": 0,
+            "guid": "BEA?j<u;ow",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Georgia",
+                "Atlanta",
+                "<img src=\"Georgia (1).png\" />",
+                "Wisdom, Justice, Moderation",
+                "Peach State; Empire State of the South",
+                "January 2, 1788"
+            ],
+            "flags": 0,
+            "guid": "(=x_uZ:Wm",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hawaii",
+                "Honolulu",
+                "<img src=\"Hawaii.png\" />",
+                "Ua Mau ke Ea o ka ʻĀina i ka Pono (The Life of the Land Is Perpetuated in Righteousness)",
+                "The Aloha State (official); Paradise of the Pacific; The Islands of Aloha; The 808 State",
+                "August 21, 1959"
+            ],
+            "flags": 0,
+            "guid": "N<VodJ~RW4",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Idaho",
+                "Boise",
+                "<img src=\"Idaho.png\" />",
+                "Esto perpetua (Latin: for Let it be perpetual)",
+                "Gem State",
+                "July 3, 1890"
+            ],
+            "flags": 0,
+            "guid": "G6tJ`&^D%t",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Illinois",
+                "Springfield",
+                "<img src=\"Illinois.png\" />",
+                "State Sovereignty, National Union",
+                "Land of Lincoln; Prairie State",
+                "December 3, 1818"
+            ],
+            "flags": 0,
+            "guid": "scUS/?;OHA",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Indiana",
+                "Indianapolis",
+                "<img src=\"Indiana.png\" />",
+                "The Crossroads of America",
+                "The Hoosier State",
+                "December 11, 1816"
+            ],
+            "flags": 0,
+            "guid": "m&`l&n_|`@",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Iowa",
+                "Des Moines",
+                "<img src=\"Iowa.png\" />",
+                "Our liberties we prize and our rights we will maintain.",
+                "Hawkeye State",
+                "December 28, 1847"
+            ],
+            "flags": 0,
+            "guid": "L9Nlsx<3v$",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kansas",
+                "Topeka",
+                "<img src=\"Kansas.png\" />",
+                "Ad astra per aspera (Latin: for To the stars through difficulties)",
+                "The Sunflower State (official); The Wheat State; The Jayhawker State; The Free State",
+                "January 29, 1861"
+            ],
+            "flags": 0,
+            "guid": "xch8<p}4bE",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kentucky",
+                "Frankfort",
+                "<img src=\"Kentucky.png\" />",
+                "United we stand, divided we fall; Deo gratiam habeamus(Let us be grateful to God)",
+                "Bluegrass State",
+                "June 1, 1792"
+            ],
+            "flags": 0,
+            "guid": "k{rU=,#Nk+",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Louisiana",
+                "Baton Rouge",
+                "<img src=\"Louisiana.png\" />",
+                "Union, Justice, Confidence",
+                "Bayou State; Creole State; Pelican State (official)Sportsman's Paradise; The Boot",
+                "April 30, 1812"
+            ],
+            "flags": 0,
+            "guid": "M~XbG_==[G",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maine",
+                "Augusta",
+                "<img src=\"Maine.png\" />",
+                "Dirigo (Latin: for I lead, I guide, or I direct)",
+                "The Pine Tree State; Vacationland",
+                "March 15, 1820"
+            ],
+            "flags": 0,
+            "guid": "d4@:Y`:zh3",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maryland",
+                "Annapolis",
+                "<img src=\"Maryland.png\" />",
+                "Fatti maschii, parole femine(English: Strong Deeds, Gentle Words) The Latin text encircling the seal: Scuto bonæ voluntatis tuæ coronasti nos (With Favor Wilt Thou Compass Us as with a Shield) Psalm 5:12",
+                "Old Line State; Free State; Little America; America in Miniature",
+                "April 28, 1788"
+            ],
+            "flags": 0,
+            "guid": "Fvg&]p?w)A",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Massachusetts",
+                "Boston",
+                "<img src=\"Massachusetts.png\" />",
+                "Ense petit placidam sub libertate quietem (Latin: By the sword we seek peace, but peace only under liberty)",
+                "The Bay State; The Pilgrim State; The Puritan State; The Old Colony State; The Baked Bean State",
+                "February 6, 1788"
+            ],
+            "flags": 0,
+            "guid": "x;_;&h,,qU",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Michigan",
+                "Lansing",
+                "<img src=\"Michigan.png\" />",
+                "Si quaeris peninsulam amoenam circumspice(English: If you seek a pleasant peninsula, look about you)",
+                "The Great Lake(s) State; The Wolverine State; The Mitten State; Water (Winter) Wonderland",
+                "January 26, 1837"
+            ],
+            "flags": 0,
+            "guid": "CP|GSQtcpI",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Minnesota",
+                "Saint Paul",
+                "<img src=\"Minnesota.png\" />",
+                "L'Étoile du Nord (French: The Star of the North)",
+                "Land of 10,000 Lakes; North Star State; The Gopher State; Agate State; True North; State of Hockey.",
+                "May 11, 1858"
+            ],
+            "flags": 0,
+            "guid": "hjT4Hw}#x-",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mississippi",
+                "Jackson",
+                "<img src=\"Mississippi.png\" />",
+                "Virtute et armis  (Latin: By valor and arms)",
+                "The Magnolia State; The Hospitality State",
+                "December 10, 1817"
+            ],
+            "flags": 0,
+            "guid": "M$G)Eacjn_",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Missouri",
+                "Jefferson City",
+                "<img src=\"Missouri.png\" />",
+                "Salus populi suprema lex esto (Latin: Let the good of the people be the supreme law)",
+                "Show Me State; Cave State and Mother of the West",
+                "August 10, 1821"
+            ],
+            "flags": 0,
+            "guid": "jbX}ULsawy",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Montana",
+                "Helena",
+                "<img src=\"Montana.png\" />",
+                "Oro y Plata (Spanish)Gold and Silver",
+                "Big Sky Country; The Treasure State",
+                "November 8, 1889"
+            ],
+            "flags": 0,
+            "guid": "uJ[zJhq%4Z",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nebraska",
+                "Lincoln",
+                "<img src=\"Nebraska.png\" />",
+                "Equality before the law",
+                "Cornhusker State",
+                "March 1, 1867"
+            ],
+            "flags": 0,
+            "guid": "hE-]i;kLk-",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": [
+                "leech"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nevada",
+                "Carson City",
+                "<img src=\"Nevada.png\" />",
+                "All for Our Country",
+                "The Silver State (official); Sagebrush State; Battle Born State",
+                "October 31, 1864"
+            ],
+            "flags": 0,
+            "guid": "xkiHfq57zS",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "New Hampshire",
+                "Concord",
+                "<img src=\"New-Hampshire.png\" />",
+                "Live Free or Die",
+                "The Granite State; White Mountain State",
+                "June 21, 1788"
+            ],
+            "flags": 0,
+            "guid": "Qs4PpKV7S2",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "New Jersey",
+                "Trenton",
+                "<img src=\"New-Jersey.png\" />",
+                "Liberty and prosperity",
+                "The Garden State",
+                "December 18, 1787"
+            ],
+            "flags": 0,
+            "guid": "JYlx$ER8&t",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "New Mexico",
+                "Santa Fe",
+                "<img src=\"New-Mexico.png\" />",
+                "Crescit eundo (English: It grows as it goes)",
+                "Land of Enchantment",
+                "January 6, 1912"
+            ],
+            "flags": 0,
+            "guid": "i:B!HE;@qc",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "New York",
+                "Albany",
+                "<img src=\"New-York.png\" />",
+                "Excelsior (Latin: Ever upward)",
+                "The Empire State",
+                "July 26, 1788"
+            ],
+            "flags": 0,
+            "guid": "bMY7|w{U=z",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "North Carolina",
+                "Raleigh",
+                "<img src=\"North-Carolina.png\" />",
+                "Esse quam videri: To be, rather than to seem (official); First in Flight",
+                "Old North State; Tar Heel State",
+                "November 21, 1789"
+            ],
+            "flags": 0,
+            "guid": "Ou&@J(Z5sm",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "North Dakota",
+                "Bismarck",
+                "<img src=\"North-Dakota.png\" />",
+                "Liberty and Union, Now and Forever, One and Inseparable",
+                "Peace Garden State,Roughrider State; Flickertail State",
+                "November 2, 1889"
+            ],
+            "flags": 0,
+            "guid": "bqkqR{i6JU",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ohio",
+                "Columbus",
+                "<img src=\"Ohio.png\" />",
+                "With God, all things are possible (1959)",
+                "The Buckeye State; Birthplace of Aviation; The Heart of It All",
+                "March 1, 1803"
+            ],
+            "flags": 0,
+            "guid": "CG^F-1lB;3",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Oklahoma",
+                "Oklahoma City",
+                "<img src=\"Oklahoma.png\">",
+                "Labor omnia vincit (Latin: Work conquers all)",
+                "Native America; Land of the Red Man; Sooner State",
+                "November 16, 1907"
+            ],
+            "flags": 0,
+            "guid": "cC._p@e:Mp",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Oregon",
+                "Salem",
+                "<img src=\"Oregon.png\" />",
+                "Alis volat propriis(English: She flies with her own wings)",
+                "The Beaver State",
+                "February 14, 1859"
+            ],
+            "flags": 0,
+            "guid": "3DGVQl$6?",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pennsylvania",
+                "Harrisburg",
+                "<img src=\"Pennsylvania.png\" />",
+                "Virtue, Liberty and Independence",
+                "Keystone State; Quaker State",
+                "December 12, 1787"
+            ],
+            "flags": 0,
+            "guid": "O:UIC7s]n!",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Rhode Island",
+                "Providence",
+                "<img src=\"Rhode-Island.png\" />",
+                "Hope",
+                "The Ocean State; Little Rhody",
+                "May 29, 1790"
+            ],
+            "flags": 0,
+            "guid": "i4sb~KC?aq",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "South Carolina",
+                "Columbia",
+                "<img src=\"South-Carolina.png\" />",
+                "Dum spiro spero* (Latin: 'While I breathe, I hope') Animis opibusque parati† (Latin: 'Prepared in mind and resources')",
+                "The Palmetto State",
+                "May 23, 1788"
+            ],
+            "flags": 0,
+            "guid": "kzm2O@P)xi",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "South Dakota",
+                "Pierre",
+                "<img src=\"South-Dakota.png\" />",
+                "Under God the People Rule",
+                "The Mount Rushmore State (official)",
+                "November 2, 1889"
+            ],
+            "flags": 0,
+            "guid": "m6oUwA]M79",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tennessee",
+                "Nashville",
+                "<img src=\"Tennessee.png\" />",
+                "Agriculture and Commerce",
+                "The Volunteer State",
+                "June 1, 1796"
+            ],
+            "flags": 0,
+            "guid": "hRPp!E^Y&b",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Texas",
+                "Austin",
+                "<img src=\"Texas.png\" />",
+                "Friendship",
+                "The Lone Star State",
+                "December 29, 1846"
+            ],
+            "flags": 0,
+            "guid": "k7S-V|RZQ@",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Utah",
+                "Salt Lake City",
+                "<img src=\"Utah.png\" />",
+                "Industry",
+                "Beehive State (official); The Mormon State; Deseret",
+                "January 4, 1896"
+            ],
+            "flags": 0,
+            "guid": "mtP!ZMw6$u",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Vermont",
+                "Montpelier",
+                "<img src=\"Vermont.png\" />",
+                "Freedom and Unity and Stella quarta decima fulgeat (May the 14th star shine bright)",
+                "The Green Mountain State",
+                "March 4, 1791"
+            ],
+            "flags": 0,
+            "guid": "dq)6{d_B28",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": [
+                "leech"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Virginia",
+                "Richmond",
+                "<img src=\"Virginia.png\" />",
+                "Sic semper tyrannis(English: Thus Always to Tyrants)",
+                "Old Dominion; Mother of Presidents",
+                "June 25, 1788"
+            ],
+            "flags": 0,
+            "guid": "byn^,|A3HK",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Washington",
+                "Olympia",
+                "<img src=\"Washington.png\" />",
+                "Al-ki or Alki, bye and bye in Chinook Jargon",
+                "The Evergreen State (unofficial)",
+                "November 11, 1889"
+            ],
+            "flags": 0,
+            "guid": "Jp,R9<uZO(",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "West Virginia",
+                "Charleston",
+                "<img src=\"West-Virginia.png\" />",
+                "Montani semper liberi(English: Mountaineers Are Always Free)",
+                "Mountain State",
+                "June 20, 1863"
+            ],
+            "flags": 0,
+            "guid": "MXzlWG?.Kx",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Wisconsin",
+                "Madison",
+                "<img src=\"Wisconsin.png\" />",
+                "Forward",
+                "Badger State; America's Dairyland (No official nickname)",
+                "May 29, 1848"
+            ],
+            "flags": 0,
+            "guid": "pFT{W4cfl2",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Wyoming",
+                "Cheyenne",
+                "<img src=\"Wyoming.png\" />",
+                "Equal Rights",
+                "Equality State (official); Cowboy State; Big Wyoming",
+                "July 10, 1890"
+            ],
+            "flags": 0,
+            "guid": "NS(O_q;<IB",
+            "note_model_uuid": "c380f994-a5fa-11ea-a5a7-787b8aba258b",
+            "tags": []
+        }
+    ]
+}

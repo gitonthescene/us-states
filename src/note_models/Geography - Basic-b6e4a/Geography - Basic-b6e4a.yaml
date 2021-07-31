@@ -1,0 +1,53 @@
+name: Geography - Basic-b6e4a
+id: c380f994-a5fa-11ea-a5a7-787b8aba258b
+css_file: src/note_models/Geography - Basic-b6e4a/style.css
+fields:
+- name: Name
+  font: Arial
+- name: Capital
+  font: Arial
+- name: Map
+  font: Arial
+- name: Motto
+  font: Arial
+- name: Nickname
+  font: Arial
+- name: Inception
+  font: Arial
+templates:
+- name: Map
+  html_file: src/note_models/Geography - Basic-b6e4a/Map.html
+- name: Capitals
+  html_file: src/note_models/Geography - Basic-b6e4a/Capitals.html
+- name: Mottos
+  html_file: src/note_models/Geography - Basic-b6e4a/Mottos.html
+- name: Mottos-Back
+  html_file: src/note_models/Geography - Basic-b6e4a/Mottos-Back.html
+- name: Nicknames
+  html_file: src/note_models/Geography - Basic-b6e4a/Nicknames.html
+- name: Nicknames-Back
+  html_file: src/note_models/Geography - Basic-b6e4a/Nicknames-Back.html
+- name: Inception
+  html_file: src/note_models/Geography - Basic-b6e4a/Inception.html
+required_fields_per_template:
+- - 0
+  - any
+  - - 2
+- - 1
+  - any
+  - - 0
+- - 2
+  - any
+  - - 0
+- - 3
+  - any
+  - - 3
+- - 4
+  - any
+  - - 0
+- - 5
+  - any
+  - - 4
+- - 6
+  - any
+  - - 0

@@ -1,0 +1,27 @@
+- build_parts:
+  - headers_from_crowd_anki:
+      part_id: deck_headers
+      source: build/Geography__USA_States
+  - notes_from_crowd_anki:
+      part_id: deck_notes
+      source: build/Geography__USA_States
+  - note_models_all_from_crowd_anki:
+      source: build/Geography__USA_States
+  - media_group_from_crowd_anki:
+      part_id: deck_media
+      source: build/Geography__USA_States
+      recursive: true
+- save_media_groups_to_folder:
+    parts:
+    - deck_media
+    folder: src/media/
+    clear_folder: true
+    recursive: true
+- generate_csvs:
+    notes: deck_notes
+    file_mappings:
+    - file: src/data/Geography - Basic-b6e4a.csv
+      note_model: Geography - Basic-b6e4a
+    note_model_mappings:
+    - note_models:
+      - Geography - Basic-b6e4a

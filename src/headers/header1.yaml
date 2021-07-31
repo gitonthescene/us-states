@@ -1,0 +1,53 @@
+crowdanki_uuid: c380b736-a5fa-11ea-9c72-787b8aba258b
+deck_config_uuid: c380ee18-a5fa-11ea-b6f7-787b8aba258b
+deck_configurations:
+- __type__: DeckConfig
+  autoplay: true
+  crowdanki_uuid: c380ee18-a5fa-11ea-b6f7-787b8aba258b
+  dyn: false
+  interdayLearningMix: 0
+  lapse:
+    delays:
+    - 10.0
+    leechAction: 0
+    leechFails: 8
+    minInt: 1
+    mult: 0.0
+  maxTaken: 60
+  name: Default
+  new:
+    bury: true
+    delays:
+    - 1.0
+    - 10.0
+    initialFactor: 2500
+    ints:
+    - 1
+    - 4
+    - 0
+    order: 1
+    perDay: 30
+    separate: true
+  newGatherPriority: 0
+  newMix: 0
+  newPerDayMinimum: 0
+  newSortOrder: 0
+  replayq: true
+  rev:
+    bury: true
+    ease4: 1.3
+    fuzz: 0.05
+    hardFactor: 1.2
+    ivlFct: 1.0
+    maxIvl: 36500
+    minSpace: 1
+    perDay: 100
+  reviewOrder: 0
+  timer: 0
+desc: Please see the <a href='https://ankiweb.net/shared/info/1226689493'>shared deck
+  page</a> for more info.
+dyn: 0
+extendNew: 10
+extendRev: 50
+mid: '1591408879030'
+name: Geography::USA States
